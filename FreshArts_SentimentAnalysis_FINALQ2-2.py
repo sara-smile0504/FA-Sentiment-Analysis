@@ -2,7 +2,6 @@
 """
 Created on Thu Apr 28 20:26:48 2022
 
-@author: moreno-m
 """
 
 
