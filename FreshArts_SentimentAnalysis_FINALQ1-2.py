@@ -2,7 +2,6 @@
 """
 Created on Thu Apr 28 18:44:43 2022
 
-@author: moreno-m
 """
 
 #importing necessary libraries
