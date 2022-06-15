@@ -3,6 +3,6 @@ Survey was done of artists in the Houston, TX area and sentiment analysis was co
 
 There are three python files that relate to the three different free response questions. Each question has it's own xlsx file with it's respective responses. There is one xlsx file with all the reviews combined, which was utilized to do text analysis. A final report is uploaded under the Project Summary document which details findings.
 
-AFINN and Google sentiment analysis were conducted on these free text responses to compare the accurracy of each package. AFINN was initially attempted using a website interface as an initial manual scoring method before it was done utilizing the package. In order to do Google sentiment one must have permissions to use the platform. This user access ID has been eliminated from the code and is noted. 
+AFINN and Google sentiment analysis were conducted on these free text responses to compare the accurracy of each package. AFINN was initially attempted using a website interface as an initial manual scoring method before it was done utilizing the package. In order to do Google sentiment one must have permissions to use the platform as a separate file. Credentials are not included in this repository.
 
 It comes as no surprise that Google Sentiment is a far superior package to utilize and was the best for devising a strategy for this non-profit. 
