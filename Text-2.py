@@ -1,7 +1,5 @@
 """
-@author: Edward R Jones
-@version 1.14
-@copyright 2020 - Edward R Jones, all rights reserved.
+
 """
 
 import sys, random, string, re
